@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-#Travel Journal
+# Travel Journal
 ## Description: 
 a simple react site developed using data file to create cards as needed. Developed for practice.
 
